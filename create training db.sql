@@ -1,7 +1,3 @@
-
-
-
-
 CREATE table training(
 training_id int not null,
 user_name varchar(20) not null,
